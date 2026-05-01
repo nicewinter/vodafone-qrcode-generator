@@ -1,6 +1,6 @@
-# Vodafone Agentic Commerce QR Code Generator
+# VIN Commerce Innovation QR Code Generator
 
-This project generates a QR code for "Vodafone Agentic Commerce" text.
+This project generates a QR code for "VIN Commerce Innovation" text.
 
 ## Requirements
 
@@ -23,8 +23,8 @@ Run the script to generate the QR code:
 python generate_qrcode.py
 ```
 
-This will create a `vodafone_qrcode.png` file in the current directory.
+This will create a `vin_commerce_qrcode.png` file in the current directory.
 
 ## Output
 
-The generated QR code image is saved as `vodafone_qrcode.png`.
+The generated QR code image is saved as `vin_commerce_qrcode.png`.
