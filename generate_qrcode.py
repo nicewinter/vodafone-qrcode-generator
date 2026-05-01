@@ -34,8 +34,8 @@ def generate_qrcode(text, output_filename):
     print(f"✓ QR code generated successfully: {output_filename}")
 
 if __name__ == "__main__":
-    # Generate QR code for 'Vodafone Agentic Commerce'
-    text = "Vodafone Agentic Commerce"
-    output_file = "vodafone_qrcode.png"
+    # Generate QR code for 'VIN Commerce Innovation'
+    text = "VIN Commerce Innovation"
+    output_file = "vin_commerce_qrcode.png"
     
     generate_qrcode(text, output_file)
